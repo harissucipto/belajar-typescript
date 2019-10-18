@@ -40,3 +40,8 @@ a("z")
 // but you gave it a string.
 
 ```
+
+## Cara Kerja Compiler dalama Pemograman Typescript
+
+Source Kode Typescript -> Typescript AST (Abstract Syntax Tree, data struktur yang mengabaikan whitespaces, comment, dll, pada saat AST akan dilakukan check dengan typechecker[program yang memverifkasi apakah kode sesuai dengan typesafe] ) -> Typescript AST -> SourceKode Javascript.
+
