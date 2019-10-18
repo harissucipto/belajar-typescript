@@ -6,6 +6,7 @@ Seri belajar typescript, silahkan kontribusi
 
 ### Mengenal Typescript
 
++ [Pengenalan](Pengenalan.md)
 + Tipe Data []
 + Fungsi []
 + Classes dan Interfaces []
