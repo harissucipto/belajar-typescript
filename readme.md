@@ -9,7 +9,7 @@ Seri belajar typescript, silahkan kontribusi
 - [Pengenalan](Pengenalan.md)
 - [Tipe Data](TipeData.md)
 - [Fungsi](Fungsi.md)
-- Classes dan Interfaces []
+- [Class dan Interface](InterfaceClass.md)
 - Tipe Data lanjutan []
 - Handling Error []
 
