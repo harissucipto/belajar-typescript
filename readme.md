@@ -10,9 +10,7 @@ Seri belajar typescript, silahkan kontribusi
 - [Tipe Data](TipeData.md)
 - [Fungsi](Fungsi.md)
 - [Class dan Interface](InterfaceClass.md)
-- Tipe Data lanjutan []
-- Handling Error []
 
 ### Alat - Alat dan Perkakas
 
-- Cara Menajalankan Program Typescript[]
+- [Cara Menajalankan Program Typescript](MenjalankanTS.md)
