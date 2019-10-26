@@ -25,3 +25,25 @@ let hitunganPersegiPanjang = hitungPersegiPanjang({ panjang: 10, lebar: 10 });
 ```
 
 Dengan menggunakan `interface` maka untuk menggunakan fungsi `hitungPersegiPnajang` mesti memenuhi syarat tipe data pada `KonfigrasiPersegiPanjang`.
+
+## Class
+
+Class adalah bagian utama dari pemrograman berbasis objek. Jika javascript awalnya hanya menggunakan fungsi dan inhiritance berbasis prototype kini mulai ECMAScript 6 telah mendu
+kung penggunaan Class.
+Berikut contoh Class:
+
+```js
+class Salam {
+  katasalam: string;
+  constructor(pesan: string) {
+    this.katasalam = pesan;
+  }
+  salam() {
+    return "Hai, " + this.katasalam;
+  }
+}
+
+let berisalam = new Salam("Agung!");
+```
+
+Pada baris terakhir kita membuat satu instanece `Salam` dengan pesan `"Agung!"`.
