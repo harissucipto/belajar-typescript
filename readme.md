@@ -6,13 +6,13 @@ Seri belajar typescript, silahkan kontribusi
 
 ### Mengenal Typescript
 
-+ [Pengenalan](Pengenalan.md)
-+ Tipe Data []
-+ Fungsi []
-+ Classes dan Interfaces []
-+ Tipe Data lanjutan []
-+ Handling Error []
+- [Pengenalan](Pengenalan.md)
+- [Tipe Data](TipeData.md)
+- [Fungsi](Fungsi.md)
+- Classes dan Interfaces []
+- Tipe Data lanjutan []
+- Handling Error []
 
 ### Alat - Alat dan Perkakas
 
-+ Cara Menajalankan Program Typescript[]
+- Cara Menajalankan Program Typescript[]
